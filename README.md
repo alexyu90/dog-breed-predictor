@@ -19,7 +19,7 @@ The IPython notebook in this repository is an end result of implementing the CNN
 
 ## Analysis
 
-An technical report of this pipeline and the findings can be find here.
+An technical report of this pipeline and the findings can be find here: https://medium.com/@yu90/dog-breed-classifier-be589a777cdd
 
 
 ## Acknowledgement 
